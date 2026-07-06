@@ -49,7 +49,7 @@ Assicurarsi di avere installato Python 3.x e `pip`.
 4. **Inserire la chiave api in un file `.env`**\
     Crea un file chiamato ``.env`` nella cartella principale del progetto ed inserisci all'interno la chiave API di TMDB
     ```
-   TMDB_API_KEY = "La Tua Chiave API"
+   TMDB_API_KEY="La Tua Chiave API"
    ```
 5. **Avviare ora il programma eseguendo da terminale:**
     ```bash
@@ -87,7 +87,7 @@ Assicurarsi di avere installato Python 3.11+ (spuntando l'opzione "Add Python to
 4. **Inserire la chiave api in un file `.env`**\
     Crea un file chiamato ``.env`` nella cartella principale del progetto ed inserisci all'interno la chiave API di TMDB
     ```
-   TMDB_API_KEY = "La Tua Chiave API"
+   TMDB_API_KEY="La Tua Chiave API"
    ```
        
 5. **Avviare ora il programma eseguendo da terminale:**
